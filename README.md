@@ -32,6 +32,12 @@ To come
 <h3>Text fields - Password redaction (WIP)</h3>
 <p>Here is the plugin to show/reveal the password with a toggle icon on a password input field, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/kx31ne90/" target="_blank">here</a></p>
 
+<h3>Text fields - text field error, form validation</h3>
+<p>I chose Parsley jQuery plugin to introduce form validation in Bootstrap 4, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tu0ap111/" target="_blank">here</a></p>
+
+<h3>Text fields - touch spin, input spinner (WIP)</h3>
+<p>I chose bootstrapTouchSpin plugin to use spinners in Bootstrap 4, here is the concept but the plugin is not yet Bootstrap 4 compatible, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/q25m35ot/" target="_blank">here</a></p>
+
 <h3>Material select</h3>
 <p>See Materialize</p>
 
