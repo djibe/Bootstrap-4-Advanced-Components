@@ -29,7 +29,7 @@ To come
 <h3>Text fields - Layout, label</h3>
 <p>Daemonite includes a floating label plugin for Bootstrap 4, but to have permanent fixed labels focus states, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/r2sda9ze/" target="_blank">here</a></p>
 
-<h3>Text fields - Password redaction (WIP)</h3>
+<h3>Text fields - Password redaction</h3>
 <p>Here is the plugin to show/reveal the password with a toggle icon on a password input field, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/kx31ne90/" target="_blank">here</a></p>
 
 <h3>Text fields - text field error, form validation</h3>
