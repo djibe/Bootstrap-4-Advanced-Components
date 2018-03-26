@@ -9,8 +9,14 @@ Hope I'll acheive it one day in a quality Documentation.</p>
 
 <h2>Alerts</h2>
 <h2>Badges</h2>
+
 <h2>Forms</h2>
 <p>These components try to bring material components to Bootstrap 4 (<a href="https://material.io/guidelines/components/text-fields.html">Text fields according to material design</a></p>
-<h3>Text fields - Clear button for Bootstrap 4 Advanced Components</h3>
+
+<h3>Text fields - Clear button</h3>
 <q>Clear buttons let users empty an entire input field.</q>
 <p>The Clear button for input fields in Bootstrap 4 - Advanced Components demo is available from <a href="https://jsfiddle.net/djibe89/f8ac3vyt/" target="_blank">here</a></p>
+
+<h3>Material select</h3>
+<p>See Materialize</p>
+
