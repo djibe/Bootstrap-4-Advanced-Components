@@ -1,21 +1,32 @@
 # Bootstrap-4-Advanced-Components
 <p>The ultimate plugins to enhance Bootstrap 4.</p>
 
-<p>Here is the beginning of a collection of plugins and tweaks to enhance Bootstrap 4 standard components.<br>
-Hope I'll acheive it one day in a quality Documentation.</p>
+<p>Here is the beginning of a collection of plugins and tweaks to enhance Bootstrap 4 standard components.</p>
 
-<p>At first I will focus on bringing the material design components to Bootstrap 4, enhancing the wonderfull Daemonite material design for Bootstrap 4.</p>
+<p>At first I will focus on bringing the material design components to Bootstrap 4, enhancing the wonderfull <a href="http://daemonite.github.io/material/" target="_blank">Daemonite material design for Bootstrap 4</a>.</p>
+<p>Later, I will provide both standard Bootstrap 4 and material Bootstrap 4 versions.</p>
 
 
 <h2>Alerts</h2>
+To come
+
 <h2>Badges</h2>
+To come
 
 <h2>Forms</h2>
-<p>These components try to bring material components to Bootstrap 4 (<a href="https://material.io/guidelines/components/text-fields.html">Text fields according to material design</a></p>
+<p>These components try to bring material components to Bootstrap 4 (<a href="https://material.io/guidelines/components/text-fields.html">Text fields according to material design</a>)</p>
 
 <h3>Text fields - Clear button</h3>
 <q>Clear buttons let users empty an entire input field.</q>
-<p>The Clear button for input fields in Bootstrap 4 - Advanced Components demo is available from <a href="https://jsfiddle.net/djibe89/f8ac3vyt/" target="_blank">here</a></p>
+<p>The Clear button for input fields in Bootstrap 4 demo is available from <a href="https://jsfiddle.net/djibe89/f8ac3vyt/" target="_blank">here</a></p>
+
+<h3>Text fields - Multi-line fields, Textarea autosize</h3>
+<p>Multi-line fields is brought to you in Bootstrap 4 through the use of textarea autosize plugin, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/bofcrp8v/" target="_blank">here</a></p>
+
+<h3>Text fields - Character or word counter</h3>
+<p>Character counter is brought to you in Bootstrap 4 through the use of maxlength plugin, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">here</a></p>
+
+
 
 <h3>Material select</h3>
 <p>See Materialize</p>
