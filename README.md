@@ -5,7 +5,7 @@
 
 <p>At first I will focus on bringing the material design components to Bootstrap 4, enhancing the wonderfull <a href="http://daemonite.github.io/material/" target="_blank">Daemonite material design for Bootstrap 4</a>.</p>
 <p>Later, I will provide both standard Bootstrap 4 and material Bootstrap 4 versions.</p>
-
+NB : WIP means work in progress ;-)
 
 <h2>Alerts</h2>
 To come
@@ -26,7 +26,11 @@ To come
 <h3>Text fields - Character or word counter</h3>
 <p>Character counter is brought to you in Bootstrap 4 through the use of maxlength plugin, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">here</a></p>
 
+<h3>Text fields - Layout, label</h3>
+<p>Daemonite includes a floating label plugin for Bootstrap 4, but to have permanent fixed labels focus states, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/r2sda9ze/" target="_blank">here</a></p>
 
+<h3>Text fields - Password redaction (WIP)</h3>
+<p>Here is the plugin to show/reveal the password with a toggle icon on a password input field, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/kx31ne90/" target="_blank">here</a></p>
 
 <h3>Material select</h3>
 <p>See Materialize</p>
