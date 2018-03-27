@@ -38,6 +38,10 @@ To come
 <h3>Text fields - touch spin, input spinner (WIP)</h3>
 <p>I chose bootstrapTouchSpin plugin to use spinners in Bootstrap 4, here is the concept but the plugin is not yet Bootstrap 4 compatible, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/q25m35ot/" target="_blank">here</a></p>
 
+<h3>Text fields - Formatted inputs</h3>
+<p>I chose inputMask plugin to enhance inputs masking, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/9zx7v5uz/" target="_blank">here</a></p>
+
+
 <h3>Material select</h3>
 <p>See Materialize</p>
 
