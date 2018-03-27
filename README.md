@@ -21,19 +21,19 @@ To come
 <p>The Clear button for input fields in Bootstrap 4 demo is available from <a href="https://jsfiddle.net/djibe89/f8ac3vyt/" target="_blank">here</a></p>
 
 <h3>Text fields - Multi-line fields, Textarea autosize</h3>
-<p>Multi-line fields is brought to you in Bootstrap 4 through the use of textarea autosize plugin, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/bofcrp8v/" target="_blank">here</a></p>
+<p>Multi-line fields is brought to you in Bootstrap 4 through the use of <a href="https://github.com/javierjulio/textarea-autosize" target="_blank">textarea autosize plugin</a>, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/bofcrp8v/" target="_blank">here</a></p>
 
 <h3>Text fields - Character or word counter</h3>
-<p>Character counter is brought to you in Bootstrap 4 through the use of maxlength plugin, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">here</a></p>
+<p>Character counter is brought to you in Bootstrap 4 through the use of <a href="https://github.com/mimo84/bootstrap-maxlength/" target="_blank">maxlength plugin</a>, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">here</a></p>
 
 <h3>Text fields - Layout, label</h3>
 <p>Daemonite includes a floating label plugin for Bootstrap 4, but to have permanent fixed labels focus states, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/r2sda9ze/" target="_blank">here</a></p>
 
 <h3>Text fields - Password redaction</h3>
-<p>Here is the plugin to show/reveal the password with a toggle icon on a password input field, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/kx31ne90/" target="_blank">here</a></p>
+<p>Here is my plugin to show/reveal the password with a toggle icon on a password input field, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/kx31ne90/" target="_blank">here</a></p>
 
 <h3>Text fields - text field error, form validation</h3>
-<p>I chose Parsley jQuery plugin to introduce form validation in Bootstrap 4, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tu0ap111/" target="_blank">here</a></p>
+<p>I chose <a href="https://github.com/guillaumepotier/Parsley.js/" target="_blank">Parsley jQuery plugin</a> to introduce form validation in Bootstrap 4, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tu0ap111/" target="_blank">here</a></p>
 
 <h3>Text fields - touch spin, input spinner (WIP)</h3>
 <p>I chose bootstrapTouchSpin plugin to use spinners in Bootstrap 4, here is the concept but the plugin is not yet Bootstrap 4 compatible, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/q25m35ot/" target="_blank">here</a></p>
