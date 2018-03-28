@@ -26,8 +26,10 @@ To come
 <h3>Text fields - Character or word counter</h3>
 <p>Character counter is brought to you in Bootstrap 4 through the use of <a href="https://github.com/mimo84/bootstrap-maxlength/" target="_blank">maxlength plugin</a>, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">here</a></p>
 
-<h3>Text fields - Layout, label</h3>
-<p>Daemonite includes a floating label plugin for Bootstrap 4, but to have permanent fixed labels focus states, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/r2sda9ze/" target="_blank">here</a></p>
+<h3>Text fields - label color on focus and line ripple effect</h3>
+<p>Daemonite includes a floating label plugin for Bootstrap 4, but doesn't color the permanent fixed labels on focus.<br>
+  I coupled the demo of the line ripple described in <a href="http://material-components-web.appspot.com/text-field.html" target="_blank">Material components</a>
+  see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/r2sda9ze/" target="_blank">here</a></p>
 
 <h3>Text fields - Password redaction</h3>
 <p>Here is my plugin to show/reveal the password with a toggle icon on a password input field, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/kx31ne90/" target="_blank">here</a></p>
