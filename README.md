@@ -7,11 +7,28 @@
 <p>Later, I will provide both standard Bootstrap 4 and material Bootstrap 4 versions.</p>
 NB : WIP means work in progress ;-)
 
+
 <h2>Alerts</h2>
 To come
 
+
 <h2>Badges</h2>
 To come
+
+
+<h2>Collapse</h2>
+WIP, to come :
+- Full width clickable collapse
+- Borderless collapse
+- Color active collapse title
+
+
+<h2>Dropdowns</h2>
+WIP, to come :
+- Search field in dropdown
+- Check-all checkbox for dropdown checkboxes
+- Dropdown with submenu
+
 
 <h2>Forms</h2>
 <p>These components try to bring material components to Bootstrap 4 (<a href="https://material.io/guidelines/components/text-fields.html">Text fields according to material design</a>)</p>
@@ -43,7 +60,22 @@ To come
 <h3>Text fields - Formatted inputs</h3>
 <p>I chose inputMask plugin to enhance inputs masking, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/9zx7v5uz/" target="_blank">here</a></p>
 
-
 <h3>Material select</h3>
 <p>See Materialize</p>
 
+Other to be delivred :
+- Search panel
+- Edit-inline (X-editable)
+
+
+
+<h2>Toasts and snackbars</h2>
+WIP
+
+
+<h2>Other utilities for Bootstrap 4</h2>
+WIP, to be delivered :
+- Right click menu
+- Sticky content
+- Custom scrollbars
+- Smooth scroll
