@@ -42,6 +42,7 @@ WIP, to come :
 
 <h3>Text fields - Character or word counter</h3>
 <p>Character counter is brought to you in Bootstrap 4 through the use of <a href="https://github.com/mimo84/bootstrap-maxlength/" target="_blank">maxlength plugin</a>, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">here</a></p>
+[[https://github.com/djibe/Bootstrap-4-Advanced-Components/blob/master/images/test.png|alt=octocat]]
 
 <h3>Text fields - label color on focus and line ripple effect</h3>
 <p>Daemonite includes a floating label plugin for Bootstrap 4, but doesn't color the permanent fixed labels on focus.<br>
