@@ -72,8 +72,8 @@ Other to be delivered :
 
 <h3>Time picker</h3>
 <p>I forked Clockpicker plugin by Weareoutman for effective time picking in Bootstrap 4 with updated styles, see the Bootstrap 4 demo <a href="https://stackblitz.com/edit/clockpicker-plugin-for-bootstrap-4-advanced-components" target="_blank">here</a></p>
-![Clockpicker screen](images/test.png?raw=true "Clockpicker plugin adapted by djibe")
-[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
+
+![Clockpicker screen](images/clockpicker.gif?raw=true "Clockpicker plugin adapted by djibe")
 
 <h3>Date picker</h3>
 <p>Use the built-in datepicker from Daemonite material theme for effective date picking, see the Bootstrap 4 documentation <a href="http://daemonite.github.io/material/docs/4.1/material/pickers/" target="_blank">here</a></p>
