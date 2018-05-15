@@ -63,10 +63,21 @@ WIP, to come :
 <h3>Material select</h3>
 <p>See Materialize</p>
 
-Other to be delivred :
+Other to be delivered :
 - Search panel
 - Edit-inline (X-editable)
 
+
+<h2>Pickers</h2>
+<h3>Time picker</h3>
+<p>I forked Clockpicker plugin by Weareoutman for effective time picking in Bootstrap 4 with updated styles, see the Bootstrap 4 demo <a href="https://stackblitz.com/edit/clockpicker-plugin-for-bootstrap-4-advanced-components" target="_blank">here</a></p>
+
+<h3>Date picker</h3>
+<p>Use the built-in datepicker from Daemonite material theme for effective date picking, see the Bootstrap 4 documentation <a href="http://daemonite.github.io/material/docs/4.1/material/pickers/" target="_blank">here</a></p>
+
+<h3>DateTime picker</h3>
+WIP
+<p>I chose XXX by XXX for effective date and time picking, see the Bootstrap 4 demo <a href="" target="_blank">here</a></p>
 
 
 <h2>Toasts and snackbars</h2>
