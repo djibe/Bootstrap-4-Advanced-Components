@@ -92,13 +92,12 @@ Other to be delivered :
 ![Clockpicker screen](images/clockpicker.gif?raw=true "Clockpicker plugin adapted by djibe")
 
 <h3>Date picker</h3>
-<p>Use the built-in datepicker from Daemonite material theme for effective date picking, see the Bootstrap 4 documentation <a href="http://daemonite.github.io/material/docs/4.1/material/pickers/" target="_blank">here</a></p>
+<p>Use the built-in datepicker from Daemonite material UI for effective date picking, see the Daemonite documentation <a href="http://daemonite.github.io/material/docs/4.1/material/pickers/" target="_blank">here</a></p>
 
 ![Datepicker screen](images/datepicker.gif?raw=true "Datepicker plugin by Daemonite material UI")
 
 <h3>DateTime picker</h3>
-WIP
-<p>I chose XXX by XXX for effective date and time picking, see the Bootstrap 4 demo <a href="" target="_blank">here</a></p>
+<p>I updated bootstrap Material Datetimepicker by t00rk plugin for effective date and time picking, see the fork <a href="https://github.com/djibe/bootstrap-material-datetimepicker" target="_blank">here</a> and the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/t5sqqw8L/" target="_blank">here</a></p>
 
 
 <h2>Toasts and snackbars</h2>
