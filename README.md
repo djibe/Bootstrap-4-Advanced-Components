@@ -73,7 +73,7 @@ WIP, to come :
 ![Input mask screen](images/formatted-inputs.gif?raw=true "Input masks plugin adapted by djibe")
 
 <h3>Switches</h3>
-<p>I chose <a href="http://bootstrapswitch.site/" target="_blank">Bootstrap switch</a> plugin to transform BS checkboxes and radio buttons into switches, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/vL87w0j8/" target="_blank">here</a></p>
+<p>I chose <a href="http://bootstrapswitch.site/" target="_blank">Bootstrap switch</a> plugin to transform BS checkboxes and radio buttons into switches, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/vL87w0j8/" target="_blank">here</a>.</p>
 ![Switches for checkboxes and radios](images/switch.gif?raw=true "Bootstrap switches plugin")
 
 <h3>Material select</h3>
