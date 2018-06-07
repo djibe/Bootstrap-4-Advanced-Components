@@ -77,6 +77,12 @@ WIP, to come :
 
 ![Switches for checkboxes and radios](images/switch.gif?raw=true "Bootstrap switches plugin")
 
+<h3>Inline editing with contenteditable</h3>
+<p>I styled the contenteditable aspect for a material look of this HTML5 standard component. See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/b9pa83Ld/" target="_blank">here</a>.</p>
+
+![Inline editing](images/contenteditable.gif?raw=true "Inline editing")
+
+
 <h3>Material select</h3>
 <p>See Materialize</p>
 
@@ -99,6 +105,21 @@ Other to be delivered :
 
 <h3>DateTime picker</h3>
 <p>I updated bootstrap Material Datetimepicker by t00rk plugin for effective date and time picking, see the fork <a href="https://github.com/djibe/bootstrap-material-datetimepicker" target="_blank">here</a> and the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/t5sqqw8L/" target="_blank">here</a></p>
+
+
+<h3>Drag and drop files for upload</h3>
+
+I chose <a href="http://www.dropzonejs.com/" target="_blank">DropzoneJS</a> plugin to enhence file upload, see the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/2w716qgy/" target="_blank">here</a>.
+
+![DropzoneJS in material UI](images/dropzone.png?raw=true "DropzoneJS")
+
+
+<h2>Scrollbar</h2>
+I chose m-custom-scrollbar by malihu plugin for a cross-browser custom scrollbar.
+
+See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/oeftjL20/" target="_blank">here</a>
+  
+![Custom scrollbar screen](images/custom-scrollbar.gif?raw=true "malihu Custom scrollbar plugin")
 
 
 <h2>Toasts and snackbars</h2>
