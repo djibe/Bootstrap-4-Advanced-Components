@@ -104,7 +104,14 @@ Other to be delivered :
 ![Datepicker screen](images/datepicker.gif?raw=true "Datepicker plugin by Daemonite material UI")
 
 <h3>DateTime picker</h3>
-<p>I updated bootstrap Material Datetimepicker by t00rk plugin for effective date and time picking, see the fork <a href="https://github.com/djibe/bootstrap-material-datetimepicker" target="_blank">here</a> and the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/t5sqqw8L/" target="_blank">here</a></p>
+
+I updated bootstrap Material Datetimepicker by t00rk plugin for effective date and time picking, see the fork <a href="https://github.com/djibe/bootstrap-material-datetimepicker" target="_blank">here</a>
+  
+  See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/qfkjg3qh/" target="_blank">here</a>
+  
+  See the Bootstrap 4 demo with material UI here : <a href="http://jsfiddle.net/djibe89/t5sqqw8L/" target="_blank">here</a>
+
+![Datetimepicker screen](images/datetimepicker.gif?raw=true "DateTimepicker plugin by t00rk enhenced by djibe")
 
 
 <h3>Drag and drop files for upload</h3>
