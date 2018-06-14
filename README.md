@@ -9,6 +9,12 @@ NB : WIP means work in progress ;-)
 
 <h2>Bootstrap tricks</h2>
 
+<h3>Bootstrap 4 - How to set 5 columns per row</h3>
+
+Learn how to add the capacity of a 5 column grid to Bootstrap 4.
+See the fiddle <a href="https://jsfiddle.net/djibe89/ntq8h910/" target="_blank">here</a>
+
+![Bootstrp 4 5 column grid](images/bootstrap-5columns.png?raw=true "Bootstrap 4 how to set 5 columns per row")
 
 
 <h2>Alerts (and notifications</h2>
