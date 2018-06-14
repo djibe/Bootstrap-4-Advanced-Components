@@ -139,16 +139,22 @@ I chose <a href="http://www.dropzonejs.com/" target="_blank">DropzoneJS</a> plug
 ![DropzoneJS in material UI](images/dropzone.png?raw=true "DropzoneJS")
 
 
-<h2>Scrollbar</h2>
-I chose m-custom-scrollbar by malihu plugin for a cross-browser custom scrollbar.
+<h2>Scrollbar - smooth and design</h2>
+I chose m-custom-scrollbar by malihu plugin for a cross-browser custom scrollbar with smooth scroll.
 
 See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/oeftjL20/" target="_blank">here</a>
   
 ![Custom scrollbar screen](images/custom-scrollbar.gif?raw=true "malihu Custom scrollbar plugin")
 
 
+<h2>Right click menu<h2>
+Want a context menu for your site ?
+
+See the Bootstrap 4 tutorial and demo <a href="https://jsfiddle.net/djibe89/qej2ppcq/" target="_blank">here</a>
+  
+![Bootstrap 4 Right click menu](images/right-click.gif?raw=true "A right click menu for Bootstrap 4")
+
+
 <h2>Other utilities for Bootstrap 4</h2>
 WIP, to be delivered :
-- Right click menu
 - Sticky content
-- Smooth scroll
