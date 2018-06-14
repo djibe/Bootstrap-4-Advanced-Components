@@ -7,13 +7,16 @@
 <p>Later, I will provide both standard Bootstrap 4 and material Bootstrap 4 versions.</p>
 NB : WIP means work in progress ;-)
 
+<h2>Bootstrap tricks</h2>
+
+
 
 <h2>Alerts</h2>
 To come
 
 
 <h2>Badges</h2>
-To come
+Work in progress <a href="https://jsfiddle.net/djibe89/jn979j7n/" target="_blank">here</a>
 
 
 <h2>Collapse</h2>
@@ -32,6 +35,12 @@ WIP, to come :
 
 <h2>Forms</h2>
 <p>These components try to bring material components to Bootstrap 4 (<a href="https://material.io/guidelines/components/text-fields.html">Text fields according to material design</a>)</p>
+
+
+<h3>Text fields - add icons to input or to placeholder</h3>
+7 ways to add an incon to an input in material design, before it as an unput-group or within it, using CSS or hacking the placeholder. Enjoy my Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tyh21Lxe/" target="_blank">here</a></p>
+
+![Icons for inputs](images/input-icons.png?raw=true "7 ways to add an icon to a Bootstrap 4 input by djibe")
 
 <h3>Text fields - Clear button</h3>
 <q>Clear buttons let users empty an entire input field.</q>
@@ -121,7 +130,7 @@ I updated bootstrap Material Datetimepicker by t00rk plugin for effective date a
 
 <h3>Drag and drop files for upload</h3>
 
-I chose <a href="http://www.dropzonejs.com/" target="_blank">DropzoneJS</a> plugin to enhence file upload, see the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/2w716qgy/" target="_blank">here</a>.
+I chose <a href="http://www.dropzonejs.com/" target="_blank">DropzoneJS</a> plugin to enhence file upload, then I gave it a mterial look. See the Bootstrap 4 tutorial and demo <a href="http://jsfiddle.net/djibe89/2w716qgy/" target="_blank">here</a>.
 
 ![DropzoneJS in material UI](images/dropzone.png?raw=true "DropzoneJS")
 
@@ -134,13 +143,16 @@ See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/oeftjL20/" target=
 ![Custom scrollbar screen](images/custom-scrollbar.gif?raw=true "malihu Custom scrollbar plugin")
 
 
-<h2>Toasts and snackbars</h2>
-WIP
+<h2>Toasts and snackbars - notifications</h2>
+I chose Bootstrap Notify by mouse0270 plugin to add snackbar and toasts notifications to Bootstrap 4.
+
+See the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/5hw6ktkk/" target="_blank">here</a>
+  
+![Toasts and snackbars](images/snackbar.png?raw=true "mouse0270 Bootstrap Notify plugin with material design")
 
 
 <h2>Other utilities for Bootstrap 4</h2>
 WIP, to be delivered :
 - Right click menu
 - Sticky content
-- Custom scrollbars
 - Smooth scroll
