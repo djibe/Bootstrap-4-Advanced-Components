@@ -11,8 +11,12 @@ NB : WIP means work in progress ;-)
 
 
 
-<h2>Alerts</h2>
-To come
+<h2>Alerts (and notifications</h2>
+I chose Bootstrap Notify by mouse0270 plugin to add snackbar and toasts notifications to Bootstrap 4.
+
+See the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/5hw6ktkk/" target="_blank">here</a>
+  
+![Toasts and snackbars](images/snackbar.png?raw=true "mouse0270 Bootstrap Notify plugin with material design")
 
 
 <h2>Badges</h2>
@@ -141,14 +145,6 @@ I chose m-custom-scrollbar by malihu plugin for a cross-browser custom scrollbar
 See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/oeftjL20/" target="_blank">here</a>
   
 ![Custom scrollbar screen](images/custom-scrollbar.gif?raw=true "malihu Custom scrollbar plugin")
-
-
-<h2>Toasts and snackbars - notifications</h2>
-I chose Bootstrap Notify by mouse0270 plugin to add snackbar and toasts notifications to Bootstrap 4.
-
-See the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/5hw6ktkk/" target="_blank">here</a>
-  
-![Toasts and snackbars](images/snackbar.png?raw=true "mouse0270 Bootstrap Notify plugin with material design")
 
 
 <h2>Other utilities for Bootstrap 4</h2>
