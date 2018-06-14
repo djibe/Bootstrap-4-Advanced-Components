@@ -82,6 +82,11 @@ WIP, to come :
 
 ![Inline editing](images/contenteditable.gif?raw=true "Inline editing")
 
+<h3>Summernote text editor</h3>
+<p>I styled Summernote plugin to give it a material look. See the Bootstrap 4 demo and tutorial <a href="https://jsfiddle.net/djibe89/by9n8azm/" target="_blank">here</a>.</p>
+
+![Summernote material design](images/summernote.png?raw=true "Summernote for Bootstrap 4 with material design")
+
 
 <h3>Material select</h3>
 <p>See Materialize</p>
