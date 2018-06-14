@@ -147,7 +147,7 @@ See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/oeftjL20/" target=
 ![Custom scrollbar screen](images/custom-scrollbar.gif?raw=true "malihu Custom scrollbar plugin")
 
 
-<h2>Right click menu<h2>
+<h2>Right click menu</h2>
 Want a context menu for your site ?
 
 See the Bootstrap 4 tutorial and demo <a href="https://jsfiddle.net/djibe89/qej2ppcq/" target="_blank">here</a>
