@@ -114,7 +114,7 @@ Other to be delivered :
 <h2>Pickers</h2>
 
 <h3>Time picker</h3>
-<p>I forked Clockpicker plugin by Weareoutman for effective time picking in Bootstrap 4 with updated styles, see the <a href="https://stackblitz.com/edit/clockpicker-plugin-for-bootstrap-4-advanced-components" target="_blank">Clockpicker for Bootstrap 4 demo</a></p>
+<p>I forked Clockpicker plugin by Weareoutman for effective time picking in Bootstrap 4 with updated styles, see the <a href="https://jsfiddle.net/djibe89/9wj67d5u/" target="_blank">Clockpicker for Bootstrap 4 demo</a></p>
 
 ![Clockpicker screen](images/clockpicker.gif?raw=true "Clockpicker plugin adapted by djibe")
 
