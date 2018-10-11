@@ -12,7 +12,7 @@ NB : WIP means work in progress ;-)
 <h3>Bootstrap 4 - How to set 5 columns per row</h3>
 
 Learn how to add the capacity of a 5 column grid to Bootstrap 4.
-See the fiddle <a href="https://jsfiddle.net/djibe89/ntq8h910/" target="_blank">here</a>
+See the fiddle <a href="https://jsfiddle.net/djibe89/ntq8h910/" target="_blank">for 5 columns with Bootstrap 4</a>
 
 ![Bootstrp 4 5 column grid](images/bootstrap-5columns.png?raw=true "Bootstrap 4 how to set 5 columns per row")
 
@@ -92,17 +92,17 @@ WIP, to come :
 ![Input mask screen](images/formatted-inputs.gif?raw=true "Input masks plugin adapted by djibe")
 
 <h3>Switches</h3>
-<p>I chose <a href="http://bootstrapswitch.site/" target="_blank">Bootstrap switch</a> plugin to transform BS checkboxes and radio buttons into switches, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/vL87w0j8/" target="_blank">here</a>.</p>
+<p>I chose <a href="http://bootstrapswitch.site/" target="_blank">Bootstrap switch</a> plugin to transform BS checkboxes and radio buttons into switches, see the <a href="https://jsfiddle.net/djibe89/vL87w0j8/" target="_blank">demo of switches for Bootstrap 4</a>.</p>
 
 ![Switches for checkboxes and radios](images/switch.gif?raw=true "Bootstrap switches plugin")
 
 <h3>Inline editing with contenteditable</h3>
-<p>I styled the contenteditable aspect for a material look of this HTML5 standard component. See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/b9pa83Ld/" target="_blank">here</a>.</p>
+<p>I styled the contenteditable aspect for a material look of this HTML5 standard component. See the <a href="http://jsfiddle.net/djibe89/b9pa83Ld/" target="_blank">demo for Bootstrap 4 inline editing</a>.</p>
 
 ![Inline editing](images/contenteditable.gif?raw=true "Inline editing")
 
 <h3>Summernote text editor</h3>
-<p>I styled Summernote plugin to give it a material look. See the Bootstrap 4 demo and tutorial <a href="https://jsfiddle.net/djibe89/by9n8azm/" target="_blank">here</a>.</p>
+<p>I styled Summernote plugin to give it a material look. See the <a href="https://jsfiddle.net/djibe89/by9n8azm/" target="_blank">demo and tutorial for Bootstrap 4 Summernote text editor</a>.</p>
 
 ![Summernote material design](images/summernote.png?raw=true "Summernote for Bootstrap 4 with material design")
 
@@ -114,7 +114,7 @@ Other to be delivered :
 <h2>Pickers</h2>
 
 <h3>Time picker</h3>
-<p>I forked Clockpicker plugin by Weareoutman for effective time picking in Bootstrap 4 with updated styles, see the Bootstrap 4 demo <a href="https://stackblitz.com/edit/clockpicker-plugin-for-bootstrap-4-advanced-components" target="_blank">here</a></p>
+<p>I forked Clockpicker plugin by Weareoutman for effective time picking in Bootstrap 4 with updated styles, see the <a href="https://stackblitz.com/edit/clockpicker-plugin-for-bootstrap-4-advanced-components" target="_blank">Clockpicker for Bootstrap 4 demo</a></p>
 
 ![Clockpicker screen](images/clockpicker.gif?raw=true "Clockpicker plugin adapted by djibe")
 
