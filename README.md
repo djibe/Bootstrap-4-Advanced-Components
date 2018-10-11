@@ -36,11 +36,9 @@ WIP, to come :
 - Color active collapse title
 
 
-<h2>Dropdowns</h2>
-WIP, to come :
+<h2>Dropdowns (material select</h2>
 - Search field in dropdown
 - Check-all checkbox for dropdown checkboxes
-- Dropdown with submenu
 
 
 <h2>Forms</h2>
@@ -78,6 +76,8 @@ WIP, to come :
 <h3>Text fields - Password redaction</h3>
 <p>Here is my plugin to show/reveal the password with a toggle icon on a password input field, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/kx31ne90/" target="_blank">here</a></p>
 
+ ![Material reveal password](images/bsreveal.gif?raw=true "Reveal password by djibe")
+
 <h3>Text fields - text field error, form validation</h3>
 <p>I chose <a href="https://github.com/guillaumepotier/Parsley.js/" target="_blank">Parsley jQuery plugin</a> to introduce form validation in Bootstrap 4, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tu0ap111/" target="_blank">here</a></p>
 
@@ -105,10 +105,6 @@ WIP, to come :
 <p>I styled Summernote plugin to give it a material look. See the Bootstrap 4 demo and tutorial <a href="https://jsfiddle.net/djibe89/by9n8azm/" target="_blank">here</a>.</p>
 
 ![Summernote material design](images/summernote.png?raw=true "Summernote for Bootstrap 4 with material design")
-
-
-<h3>Material select</h3>
-<p>See Materialize</p>
 
 Other to be delivered :
 - Search panel
