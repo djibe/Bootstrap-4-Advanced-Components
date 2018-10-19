@@ -152,7 +152,7 @@ See the Bootstrap 4 demo <a href="http://jsfiddle.net/djibe89/oeftjL20/" target=
 <h2>Right click menu</h2>
 Want a context menu for your site ?
 
-See the Bootstrap 4 tutorial and demo <a href="https://jsfiddle.net/djibe89/qej2ppcq/" target="_blank">here</a>
+<a href="https://jsfiddle.net/djibe89/qej2ppcq/" target="_blank">See the tutorial and demo for a context menu - right click menu using Bootstrap 4</a>
   
 ![Bootstrap 4 Right click menu](images/right-click.gif?raw=true "A right click menu for Bootstrap 4")
 
