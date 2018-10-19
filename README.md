@@ -18,11 +18,11 @@ See the fiddle <a href="https://jsfiddle.net/djibe89/ntq8h910/" target="_blank">
 
 
 <h2>Alerts (and notifications</h2>
-I chose Bootstrap Notify by mouse0270 plugin to add snackbar and toasts notifications to Bootstrap 4.
+I chose Bootstrap Notify plugin by mouse0270 to add snackbar and toasts notifications to Bootstrap 4.
 
-See the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/5hw6ktkk/" target="_blank">here</a>
+<a href="https://jsfiddle.net/djibe89/5hw6ktkk/" target="_blank">See the Bootstrap 4 demo</a>
   
-![Toasts and snackbars](images/snackbar.png?raw=true "mouse0270 Bootstrap Notify plugin with material design")
+![Toasts and snackbars](images/snackbar.gif?raw=true "mouse0270 Bootstrap Notify plugin with material design")
 
 
 <h2>Badges</h2>
