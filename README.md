@@ -46,7 +46,7 @@ WIP, to come :
 
 
 <h3>Text fields - add icons to input or to placeholder</h3>
-7 ways to add an incon to an input in material design, before it as an unput-group or within it, using CSS or hacking the placeholder. Enjoy my Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tyh21Lxe/" target="_blank">here</a></p>
+7 ways to add an incon to an input in material design, before it as an input-group or within it, using CSS or hacking the placeholder. Enjoy my Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tyh21Lxe/" target="_blank">here</a></p>
 
 ![Icons for inputs](images/input-icons.png?raw=true "7 ways to add an icon to a Bootstrap 4 input by djibe")
 
