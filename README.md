@@ -44,6 +44,10 @@ WIP, to come :
 <h2>Forms</h2>
 <p>These components try to bring material components to Bootstrap 4 (<a href="https://material.io/guidelines/components/text-fields.html">Text fields according to material design</a>)</p>
 
+<h3>Text fields and inputs - add input spinners</h3>
+<p>Bootstrap Touchspin adds useful input spinners to your form fields. <a href="https://jsfiddle.net/djibe89/q25m35ot/" target="_blank">Demo is available here</a></p>
+
+![Input spinners](images/bootstrap-touchspin.png?raw=true "Bootstrap Touchspin for Bootstrap 4.1")
 
 <h3>Text fields - add icons to input or to placeholder</h3>
 7 ways to add an incon to an input in material design, before it as an input-group or within it, using CSS or hacking the placeholder. Enjoy my Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tyh21Lxe/" target="_blank">here</a></p>
