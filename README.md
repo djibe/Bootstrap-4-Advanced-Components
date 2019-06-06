@@ -5,7 +5,8 @@
 
 <p>At first I will focus on bringing the material design components to Bootstrap 4, enhancing the wonderfull <a href="http://daemonite.github.io/material/" target="_blank">Daemonite material design for Bootstrap 4</a>.</p>
 <p>Later, I will provide both standard Bootstrap 4 and material Bootstrap 4 versions.</p>
-NB : WIP means work in progress ;-)
+NB. WIP means work in progress ;-)
+
 
 ## Bootstrap tricks
 
@@ -15,6 +16,7 @@ Learn how to add the capacity of a 5 column grid to Bootstrap 4.
 See the fiddle <a href="https://jsfiddle.net/djibe89/ntq8h910/" target="_blank">for 5 columns with Bootstrap 4</a>
 
 ![Bootstrap 4 5 column grid](images/bootstrap-5columns.png?raw=true "Bootstrap 4 how to set 5 columns per row")
+
 
 
 ## Alerts (and notifications
@@ -41,19 +43,19 @@ WIP, to come :
 - Check-all checkbox for dropdown checkboxes
 
 
-
 ## Forms
-These components try to bring material components to Bootstrap 4 (<a href="https://material.io/guidelines/components/text-fields.html">Text fields according to material design</a>)
+These components try to bring material components to Bootstrap 4.
+<a href="https://material.io/guidelines/components/text-fields.html">Google material design sepcs for Text fields</a>.
 
 
 ### Text fields and inputs - input spinners
-Bootstrap Touchspin adds useful input spinners to your form fields. <a href="https://jsfiddle.net/djibe89/q25m35ot/" target="_blank">Demo is available here</a>
+Bootstrap Touchspin adds useful input spinners to your form fields. <a href="https://jsfiddle.net/djibe89/q25m35ot/" target="_blank">Bootstrap 4 demo here</a>.
 
 ![Input spinners](images/bootstrap-touchspin.png?raw=true "Bootstrap Touchspin for Bootstrap 4.1")
 
 
 ### Text fields - add icons to input or placeholder
-7 ways to add an incon to an input in material design, before it as an input-group or within it, using CSS or hacking the placeholder. Enjoy my Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/tyh21Lxe/" target="_blank">here</a></p>
+7 ways to add an incon to an input in material design, before it as an input-group or within it, using CSS or hacking the placeholder. Enjoy my <a href="https://jsfiddle.net/djibe89/tyh21Lxe/" target="_blank">Bootstrap 4 demo here</a></p>.
 
 ![Icons for inputs](images/input-icons.png?raw=true "7 ways to add an icon to a Bootstrap 4 input by djibe")
 
@@ -61,29 +63,29 @@ Bootstrap Touchspin adds useful input spinners to your form fields. <a href="htt
 ### Text fields - Clear button
 <q>Clear buttons let users empty an entire input field.</q>
 
-The Clear button for input fields in Bootstrap 4 demo is available from <a href="https://jsfiddle.net/djibe89/f8ac3vyt/" target="_blank">here</a>
+The Clear button for input fields in <a href="https://jsfiddle.net/djibe89/f8ac3vyt/" target="_blank">Bootstrap 4 demo is available here</a>.
 
 ![Clear button for inputs](images/clear-button.gif?raw=true "Clear button by djibe")
 
 
 ### Text fields - Multi-line fields, Textarea autosize
-Multi-line fields is brought to you in Bootstrap 4 through the use of <a href="https://github.com/javierjulio/textarea-autosize" target="_blank">textarea autosize plugin</a>, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/bofcrp8v/" target="_blank">here</a>
+Multi-line fields is brought to you in Bootstrap 4 through the use of <a href="https://github.com/javierjulio/textarea-autosize" target="_blank">textarea autosize plugin</a>, see the <a href="https://jsfiddle.net/djibe89/bofcrp8v/" target="_blank">Bootstrap 4 demo here</a>.
 
 ![Textarea autosize screen](images/textarea-autosize.gif?raw=true "Textarea autosize plugin adapted by Maya Ma")
 
 
 ### Text fields - Character or word counter
-Character counter is brought to you in Bootstrap 4 through the use of <a href="https://github.com/mimo84/bootstrap-maxlength/" target="_blank">maxlength plugin</a>, see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">here</a>
+Character counter is brought to you in Bootstrap 4 through the use of <a href="https://github.com/mimo84/bootstrap-maxlength/" target="_blank">maxlength plugin</a>, see the <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">Bootstrap 4 demo here</a>.
 
 ![Character counter screen](images/maxlength.gif?raw=true "Maxlength plugin adapted by djibe")
 
 
 ### Text fields - label color on focus and line ripple effect
-Daemonite includes a floating label plugin for Bootstrap 4, but doesn't color the permanent fixed labels on focus.
+Daemonite material UI includes a floating label plugin for Bootstrap 4, but doesn't color the permanent fixed labels on focus.
 
-I coupled the demo of the line ripple described in <a href="http://material-components-web.appspot.com/text-field.html" target="_blank">Material components</a>
+I coupled the demo of the line ripple described in <a href="http://material-components-web.appspot.com/text-field.html" target="_blank">Google Material components</a>.
 
-see the Bootstrap 4 demo <a href="https://jsfiddle.net/djibe89/r2sda9ze/" target="_blank">here</a>
+See the <a href="https://jsfiddle.net/djibe89/r2sda9ze/" target="_blank">Bootstrap 4 demo here</a>.
   
  ![Material line ripple on inputs](images/line-ripple.gif?raw=true "Line ripple on ibputs by djibe")
 
