@@ -187,13 +187,13 @@ See the <a href="http://jsfiddle.net/djibe89/oeftjL20/" target="_blank">Bootstra
 ### HTML5 input range cross-browser styling
 Material design look for HTML5 range sliders. Pure CSS code. Works with Chrome, Safari, Firefox and Edge.
 Compatible with Bootstrap 4.
-Play with [pure CSS range sliders by djibe](https://jsfiddle.net/djibe89/g5nz7kmo).
+Play with [pure CSS range sliders demo by djibe](https://jsfiddle.net/djibe89/g5nz7kmo).
 
 ![Material design HTML5 range sliders](images/range-sliders-material.gif?raw=true "djibe material design range sliders")
 
 
 ### Material design theme for ionRangeSlider plugin
-Material design theme for [ionRangeSlider plugin](https://github.com/IonDen/ion.rangeSlider)
+Material design theme for [ionRangeSlider plugin](https://github.com/IonDen/ion.rangeSlider). jQuery dependency.
 Play with [material theme demo for ionRangeSlider](https://jsfiddle.net/djibe89/g5nz7kmo).
 
 ![Material design ionRangeSlider theme](images/ionrangeslider-material.gif?raw=true "djibe material design theme for ionRangeSlider")
