@@ -201,7 +201,7 @@ Play with [pure CSS range sliders demo by djibe](https://jsfiddle.net/djibe89/g5
 
 ### Material design theme for ionRangeSlider plugin
 Material design theme for [ionRangeSlider plugin](https://github.com/IonDen/ion.rangeSlider). jQuery dependency.
-Play with [material theme demo for ionRangeSlider](https://jsfiddle.net/djibe89/g5nz7kmo).
+Play with [material theme demo for ionRangeSlider](https://jsfiddle.net/djibe89/ofdv53k1/).
 
 ![Material design ionRangeSlider theme](images/ionrangeslider-material.gif?raw=true "djibe material design theme for ionRangeSlider")
 
