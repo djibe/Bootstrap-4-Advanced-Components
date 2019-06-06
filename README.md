@@ -118,6 +118,13 @@ I chose <a href="http://bootstrapswitch.site/" target="_blank">Bootstrap switch<
 ![Switches for checkboxes and radios](images/switch.gif?raw=true "Bootstrap switches plugin")
 
 
+### Radio buttons alternative : use cards as radio buttons
+I coded a demo to apply a card styling to radio buttons.
+Play with my [djibe material cards as radio buttons demo ](https://jsfiddle.net/djibe89/g5nz7kmo/64/).
+
+![djibe cards as radio buttons](images/card-as-radio-material.gif?raw=true "Radio buttons restyled for card-like sleection")
+
+
 ### Inline editing with contenteditable
 I styled the HTML5 contenteditable aspect for a material look of this HTML5 standard component. See the <a href="http://jsfiddle.net/djibe89/b9pa83Ld/" target="_blank">demo for Bootstrap 4 inline editing</a>.
 
