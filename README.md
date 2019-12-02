@@ -19,7 +19,9 @@ See my fiddle on StackOverflow <a href="https://stackoverflow.com/questions/5073
 
 
 
-## Alerts (and notifications
+## DROPPED Alerts and notifications
+BS 4.3+ have built-in toasts components.
+
 I chose Bootstrap Notify plugin by mouse0270 to add snackbar and toasts notifications to Bootstrap 4.
 
 <a href="https://jsfiddle.net/djibe89/5hw6ktkk/" target="_blank">See the Bootstrap 4 demo</a>
