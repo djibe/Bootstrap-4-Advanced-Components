@@ -20,7 +20,7 @@ See my fiddle on StackOverflow [for 5 columns with Bootstrap 4](https://stackove
 
 ## DROPPED Alerts and notifications
 
-BS 4.3+ have built-in toasts components. See [material design Toast/snackbar demo](https://djibe.github.io/material/docs/4.4/material/snackbars/).
+BS 4.3+ have built-in toasts components. See [material design Toast/snackbar demo](https://djibe.github.io/material/docs/4.5/material/snackbars/).
 
 ### Archived
 
@@ -31,11 +31,11 @@ Bootstrap Notify plugin by mouse0270 to add snackbar and toasts notifications to
 
 ## Badges
 
-All you need is [available in Material UI 2](https://djibe.github.io/material/docs/4.4/material/badges/).
+All you need is [available in Material UI 2](https://djibe.github.io/material/docs/4.5/material/badges/).
 
 ## Collapse
 
-All you need is [available in Material UI 2](https://djibe.github.io/material/docs/4.4/components/collapse/).
+All you need is [available in Material UI 2](https://djibe.github.io/material/docs/4.5/components/collapse/).
 
 ## Forms
 
