@@ -61,23 +61,21 @@ The Clear button for input fields in <a href="https://jsfiddle.net/djibe89/f8ac3
 
 ### Text fields - Multi-line fields, Textarea autosize
 
-Multi-line fields is brought to you in Bootstrap 4 through the use of <a href="https://github.com/javierjulio/textarea-autosize" target="_blank">textarea autosize plugin</a>, see the <a href="https://jsfiddle.net/djibe89/bofcrp8v/" target="_blank">Bootstrap 4 demo here</a>.
+Multi-line fields is brought to you in Bootstrap 4 through the use of <a href="https://github.com/javierjulio/textarea-autosize" target="_blank">textarea autosize plugin</a>, see the <a href="https://djibe.github.io/material/docs/4.5/plugins/textarea-autosize/" target="_blank">Bootstrap 4 demo here</a>.
 
 ![Textarea autosize screen](images/textarea-autosize.gif?raw=true "Textarea autosize plugin adapted by Maya Ma")
 
 ### Text fields - Character or word counter
 
-Character counter is brought to you in Bootstrap 4 through the use of <a href="https://github.com/mimo84/bootstrap-maxlength/" target="_blank">maxlength plugin</a>, see the <a href="https://jsfiddle.net/djibe89/knv43w6t/" target="_blank">Bootstrap 4 demo here</a>.
+Character counter is brought to you in Bootstrap 4 through the use of <a href="https://github.com/mimo84/bootstrap-maxlength/" target="_blank">maxlength plugin</a>, see the <a href="https://djibe.github.io/material/docs/4.5/plugins/character-counter/" target="_blank">Bootstrap 4 demo here</a>.
 
 ![Character counter screen](images/maxlength.gif?raw=true "Maxlength plugin adapted by djibe")
 
 ### Text fields - label color on focus and line ripple effect
 
-Daemonite material UI includes a floating label plugin for Bootstrap 4, but doesn't color the permanent fixed labels on focus.
+Daemonite material UI 2 has all you need for your forms.
 
-I coupled the demo of the line ripple described in <a href="http://material-components-web.appspot.com/text-field.html" target="_blank">Google Material components</a>.
-
-See the <a href="https://jsfiddle.net/djibe89/r2sda9ze/" target="_blank">Bootstrap 4 demo here</a>.
+See the <a href="https://djibe.github.io/material/docs/4.5/material/text-fields/" target="_blank">Bootstrap 4 demo here</a>.
   
 ![Material line ripple on inputs](images/line-ripple.gif?raw=true "Line ripple on ibputs by djibe")
 
@@ -104,6 +102,10 @@ I chose inputMask plugin to enhance inputs masking, see the Bootstrap 4 demo <a 
 ![Input mask screen](images/formatted-inputs.gif?raw=true "Input masks plugin adapted by djibe")
 
 ### Switches
+
+Bootstrap 4 has the [switches you need](https://djibe.github.io/material/docs/4.5/components/forms/#switches).
+
+For extra switches:
 
 I chose <a href="http://bootstrapswitch.site/" target="_blank">Bootstrap switch</a> plugin to transform BS checkboxes and radio buttons into switches, see the <a href="https://jsfiddle.net/djibe89/vL87w0j8/" target="_blank">demo of switches for Bootstrap 4</a>.
 
@@ -177,8 +179,6 @@ See the <a href="http://jsfiddle.net/djibe89/oeftjL20/" target="_blank">Bootstra
 
 ## Sliders - input type="range" and alternatives
 
-[Google Material Design for Sliders](https://material.io/design/components/sliders.html)
-
 ### HTML5 input range cross-browser styling
 
 Material design look for HTML5 range sliders. Pure CSS code. Works with Chrome, Safari, Firefox and Edge.
@@ -189,10 +189,8 @@ Play with [pure CSS range sliders demo by djibe](https://jsfiddle.net/djibe89/g5
 
 ### Material design theme for ionRangeSlider plugin
 
-Material design theme for [ionRangeSlider plugin](https://github.com/IonDen/ion.rangeSlider). jQuery dependency.
-Play with [material theme demo for ionRangeSlider](https://jsfiddle.net/djibe89/ofdv53k1/).
-
-![Material design ionRangeSlider theme](images/ionrangeslider-material.gif?raw=true "djibe material design theme for ionRangeSlider")
+My material design theme for [ionRangeSlider plugin](https://github.com/IonDen/ion.rangeSlider). jQuery dependency.
+Play with [material theme demo for ionRangeSlider](https://djibe.github.io/material/docs/4.5/plugins/sliders-ionrangeslider/).
 
 ## Right click menu
 
